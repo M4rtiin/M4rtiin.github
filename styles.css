@@ -9,7 +9,7 @@ body {
 }
 
 #header {
-  background-color: #0000CD;
+  background-color: #0000FF;
   height: 150px;
   line-height: 150px;
 }
@@ -70,12 +70,12 @@ body {
 }
 
 a {
-  color: #1abc9c;
+  color: #0000FF;
   text-decoration: none;
 }
 
 a:hover {
-  color: #f6a623;
+  color: #0000FF;
 }
 
 .post, .about {
