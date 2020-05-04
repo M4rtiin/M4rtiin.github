@@ -66,15 +66,17 @@ body {
   vertical-align: top;
 }
 
-#footer h4 {
+#footerside {
   padding-left: 20px;
+}
+
+#footer h4 {
   color: white;
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
 
 #footer p {
-  padding-left: 20px;
   color: white;
 }
 
