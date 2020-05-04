@@ -39,8 +39,11 @@ body {
   float: right;
 }
 
+#headerside {
+  padding-right: 40px;
+}
+
 #header-nav li {
-  padding-right: 50px;
   display: inline;
   padding-left: 20px;
   margin-top: 0;
